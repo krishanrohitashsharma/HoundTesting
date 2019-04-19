@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 
     func show()
     {
-        
+        print("test")
     }
 
 }
