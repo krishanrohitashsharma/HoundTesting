@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var a:String=""
+    var afbbdbvebvebvdrgfyegfyebvdbhjwbfuiy3gfehvdvbfwgfuihvenvdkjbvbbwygfyegfeudivhrpghehchvc:String=""
     
     override func viewDidLoad()
     {
