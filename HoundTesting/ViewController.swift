@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var afbbdbvebvebvdrgfyegfyebvdbhjwbfuiy3gfehvdvbfwgfuihvenvdkjbvbbwygfyegfeudivhrpghehchvc:String=""
+    var afbbdbvebvebvdrgfyegfyebvdbhjwbfuiy3gfehvdvbfwgfuihvenvdkjbvb:String=""
     
     override func viewDidLoad()
     {
@@ -25,4 +25,6 @@ class ViewController: UIViewController {
     }
 
 }
+
+
 
