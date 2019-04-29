@@ -10,18 +10,21 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var a:String=""
+    var afbbdbvebvebvdrgfyegfyebvdbhjwbfuiy3gfehvdvbfwgfuihvenvdkjbvb:String=""
     
     override func viewDidLoad()
     {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("abc")
     }
 
     func show()
     {
-        
+        print("test")
     }
 
 }
+
+
 
