@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print("abc")
     }
 
-    func show()
+    func showDataWIth_Parameter()
     {
         print("test")
     }
